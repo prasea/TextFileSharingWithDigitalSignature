@@ -1,0 +1,5 @@
+This sofware will only work for window 7 and above with 64 or 32 bit Operating System. Follow the below steps;
+
+1. Run Java SE Development Kit, after completion then;
+
+2.Run Bluej setup
